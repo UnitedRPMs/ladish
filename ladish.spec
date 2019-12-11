@@ -41,6 +41,7 @@ BuildRequires: flowcanvas-devel
 BuildRequires: pygtk2-devel
 BuildRequires: python3-pyyaml
 BuildRequires: gcc-c++
+BuildRequires: intltool
 
 %description
 Session management system for JACK applications on GNU/Linux. Its aim
