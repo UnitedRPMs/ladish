@@ -1,0 +1,20 @@
+diff -Nurp ladish-1.orig/gui/gladish.desktop ladish-1/gui/gladish.desktop
+--- ladish-1.orig/gui/gladish.desktop	2011-10-02 01:17:45.000000000 +0200
++++ ladish-1/gui/gladish.desktop	2012-03-07 14:23:10.758786147 +0100
+@@ -1,10 +1,5 @@
+ [Desktop Entry]
+ Name=gladish
+-Comment=LADI Session Handler
+-Comment[fr]=Gestionnaire de session LADI
+-Comment[pt]=Gerenciador de Sessões LADI
+-Comment[pt_BR]=Gerenciador de Sessões LADI
+-Comment[ru]=Управление сеансами LADI
+ GenericName=LADI Session Handler
+ GenericName[fr]=Gestionnaire de session LADI
+ GenericName[pt]=Gerenciador de Sessões LADI
+@@ -14,4 +9,4 @@ Type=Application
+ Terminal=false
+ Exec=gladish
+ Icon=gladish
+-Categories=AudioVideo;Audio;GNOME;
++Categories=AudioVideo;Audio;GNOME;GTK;X-Jack;
